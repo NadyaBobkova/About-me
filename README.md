@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub
+# About me
 
-_Get started using GitHub in less than an hour._
+_I am a QA_
 
 <!-- 
   <<< Author notes: Start of the course >>> 
